@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Amfora
-Icon=/usr/share/icons/hicolor/512x512/amfora.png
+Icon=/usr/share/icons/hicolor/512x512/apps/amfora.png
 GenericName=Gemini TUI Browser
 Comment=Browse Gemini in the terminal.
 Categories=Network;WebBrowser;ConsoleOnly;
