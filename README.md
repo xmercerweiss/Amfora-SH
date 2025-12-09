@@ -8,3 +8,7 @@ To install Amfora via this script, simply run:
 ```bash
 curl https://raw.githubusercontent.com/xmercerweiss/Amfora-SH/refs/heads/main/install.sh | sudo sh
 ```
+
+## License
+This project is licensed under the permissive Zero-Clause BSD License. Copyright 2025, Xavier Mercerweiss.
+ 
